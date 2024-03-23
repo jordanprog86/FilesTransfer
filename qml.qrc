@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>HomePage.qml</file>
+        <file>ModePage.qml</file>
+        <file>SendPage.qml</file>
+        <file>CustomProgressBar.qml</file>
+        <file>ReceivePage.qml</file>
+        <file>Support.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>quickshare.png</file>
+    </qresource>
+</RCC>
